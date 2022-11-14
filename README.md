@@ -11,4 +11,4 @@ Run files in the following sequence:
 4) ONFM (Failure Detection Comparison)
 
 
-Since there is still a pending publication in which we used the same dataset, I'll make the experimental dataset used for this one available here shortly.
+I'll make the experimental dataset used for this one available here shortly because there is still a pending publication in which we used the same dataset.
