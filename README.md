@@ -1,8 +1,10 @@
 # Data-Augmentation-using-VAE-for-removing-class-imbalance-and-improving-ML-aided-failure-management-
 
-ECOC-2022 submission
+Augmentation of tabular data was performed using Variational Autoencoder (VAE) and then the "good" synthetic samples were selected using Synthetic Samples Selector. The synthetic samples were combined with original experimental training data to address the issue of class imbalance and then performance was evaluated in terms of accuracy and training time of neural networks.
 
-Run files in the following sequence:
+We considered dataset related to failure management in optical networks but you can use this approach to balance any tabular dataset. Feel free to use this code and we'll appreciate if you'll cite our work.
+
+To reproduce these results, run files in the following sequence:
 
 
 1) Data to be augmented generator
@@ -11,4 +13,6 @@ Run files in the following sequence:
 4) ONFM (Failure Detection Comparison)
 
 
-I'll make the experimental dataset used for this one available here shortly because there is still a pending publication in which we used the same dataset.
+In case of any queries, comments or feedback, please feel free to write me at larebzarkhan@gmail.com .
+
+Cheers.
