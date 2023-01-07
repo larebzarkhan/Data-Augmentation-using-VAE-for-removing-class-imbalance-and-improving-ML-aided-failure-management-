@@ -4,6 +4,8 @@ Augmentation of tabular data was performed using Variational Autoencoder (VAE) a
 
 We considered dataset related to failure management in optical networks but you can use this approach to balance any tabular dataset. Feel free to use this code and we'll appreciate if you'll cite our work.
 
+L. Z. Khan, J. Pedro, N. Costa, L. De Marinis, A. Napoli and N. Sambo, "Data augmentation to improve performance of neural networks for failure management in optical networks," in Journal of Optical Communications and Networking, vol. 15, no. 1, pp. 57-67, January 2023, doi: 10.1364/JOCN.472605.
+
 To reproduce these results, run files in the following sequence:
 
 
